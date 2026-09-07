@@ -4,12 +4,12 @@ Official Homebrew tap for [MCSC (Mission Control Shortcuts)](https://github.com/
 
 ## Installation
 
-### 1. Add and trust tap (Homebrew 6+)
+### 1. Tap the repository
 ```bash
-brew tap --trust ShubhamJ010/tap
+brew tap ShubhamJ010/tap
 ```
 
-*(On Homebrew 5 or older, `brew tap ShubhamJ010/tap` works directly).*
+*(On Homebrew 6+, run `brew trust ShubhamJ010/tap` if prompted).*
 
 ### 2. Install MCSC
 ```bash

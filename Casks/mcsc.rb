@@ -1,6 +1,6 @@
 cask "mcsc" do
-  version "0.7.0"
-  sha256 "4bda40aef00f8bb2f5f57c22781a0a4c6e150d8e3b27c1682a04ccb493c6fae1"
+  version "0.7.1"
+  sha256 "112a8302ec30adf33a27b6adf244dc48f4369795d9933cfcd48c0320872e4c58"
 
   url "https://github.com/ShubhamJ010/mission-control-shortcuts/releases/download/v#{version}/MCSC.dmg"
   name "MCSC"

@@ -9,7 +9,6 @@ cask "zen-browser-sj" do
 
   auto_updates false
   depends_on arch: :arm64
-  depends_on macos: :catalina
 
   app "Zen.app"
 

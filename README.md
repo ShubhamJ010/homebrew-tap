@@ -11,9 +11,9 @@ brew tap ShubhamJ010/tap
 
 *(On Homebrew 6+, run `brew trust ShubhamJ010/tap` if prompted).*
 
-### 2. Install Zen Browser (RC)
+### 2. Install Zen Browser (SJ Build)
 ```bash
-brew install --cask zen-browser-rc
+brew install --cask zen-browser-sj
 ```
 
 *Note: The cask automatically removes macOS quarantine flags during installation.*
@@ -29,5 +29,5 @@ brew install --cask mcsc
 
 ```bash
 brew update
-brew upgrade --cask zen-browser-rc
+brew upgrade --cask zen-browser-sj
 ```

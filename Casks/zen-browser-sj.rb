@@ -1,6 +1,6 @@
 cask "zen-browser-sj" do
-  version "1.24.2b"
-  sha256 "220c63108075f40862606f9c4c572b8582754703d2d8f1a6d61a4093bdad6dfc"
+  version "1.24.2b.1"
+  sha256 "5a906e87ee5242e8667a94ae24b4ecb36eb9956446e04937175c101549692f19"
 
   url "https://github.com/ShubhamJ010/desktop/releases/download/#{version}/zen-rc-macos-aarch64.zip"
   name "Zen Browser (SJ Build)"
